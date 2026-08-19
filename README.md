@@ -8,3 +8,5 @@ Click on the suspicious outbound connection ticket
 Type in your analyst action, the disposition and click post reply
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Suspicious-Network-Connection-Ticket-as-a-SOC-L1/blob/23b2b2ea22036f78f8780bd4b22409066439abf4/Screenshot%202026-08-18%20013829.png)
 Click on the internal note tab. Type in your investigation findings and the next step. Click post note.
+![Image alt](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Suspicious-Network-Connection-Ticket-as-a-SOC-L1/blob/cd509007fc840823acd6687b37fb807dd00cab09/Screenshot%202026-08-18%20013907.png)
+Assign the ticket to your SOC L2.
